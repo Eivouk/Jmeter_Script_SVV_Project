@@ -122,5 +122,4 @@ Key metrics analyzed include:
 
 ## 7. Authors
 
-Developed by **School Project Group**  
 Performance testing conducted as part of a **software testing and quality assurance assignment**.
